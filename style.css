@@ -8,7 +8,7 @@
 
 
 body {
-    background-color: #0f0f1e;
+    background-color: #0000009f;
     color: #ffffff;
     font-size: 16px;
     overflow: hidden;
@@ -29,8 +29,8 @@ header {
     font-family: "Orbitron", sans-serif;
     font-size: 2rem;
     font-weight: 900;
-    color: #00f7ff;
-    text-shadow: 0 0 10px rgb(0, 247, 255, 0.5) ;
+    color: #1c060a;
+    text-shadow: 0 0 10px #ff002f8a ;
 }
 
 
@@ -43,7 +43,9 @@ header nav ul {
 header nav ul li {
     cursor: pointer;
     position: relative;
+    color: #ff002fc9;
     padding: 5px 0;
+    font-weight: 500;
 }
 
 header nav ul li::after {
@@ -53,7 +55,7 @@ header nav ul li::after {
     bottom: 0;
     width: 0;
     height: 2px;
-    background-color: #00f7ff;
+    background-color: #1c060a;
     transition: width 0.5s ease;
 }
 
@@ -64,7 +66,7 @@ header nav ul li:hover::after {
 .conteiner {
     height: 100vh;
     position: relative;
-    background: linear-gradient(135deg, #0f0f1e 0%, #1f1f3a 100%);
+    background: linear-gradient(135deg, #370b13 0%, #370b13c7 100%);
     overflow: hidden;
 }
 
@@ -74,7 +76,7 @@ header nav ul li:hover::after {
     height: 500px;
     width: 500px;
     border-radius: 50%;
-    background: radial-gradient(circle, rgba(0, 247, 255, 0.2) 0%, rgba(15, 15, 30,0) 70% );
+    background: radial-gradient(circle, rgba(173, 28, 28, 0.2) 0%, rgba(250, 34, 70, 0) 70% );
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -134,7 +136,7 @@ header nav ul li:hover::after {
 .produto-img img {
     max-width: 80%;
     max-height: 60%;
-    filter: drop-shadow(0 0 30px rgba(0, 247, 255, 0.3));
+    filter: drop-shadow(0 0 30px #d1122b51);
 }
 
 
@@ -151,7 +153,7 @@ header nav ul li:hover::after {
 .produto-tag {
     font-size: 0.9rem;
     text-transform: uppercase;
-    color: #00f7ff;
+    color: #ff002fc9;
     font-weight: 600;
     letter-spacing: 2px;
     margin-bottom: 10px;
@@ -166,7 +168,7 @@ header nav ul li:hover::after {
 
 .descrição {
     font-size: 1rem;
-    color: #b8b8d0;
+    color: rgb(212, 203, 203)  ;
     line-height: 1.6;
     margin-bottom: 30px;
     max-width: 600px;
@@ -174,7 +176,7 @@ header nav ul li:hover::after {
 
 .bnt {
     padding: 12px 16px;
-    background: linear-gradient(90deg, #00f7ff, #0066ff);
+    background: linear-gradient(90deg, #ff002f54, #ff002f18);
     border-radius: 30px;
     color: #000;
     font-size: 1rem;
@@ -184,7 +186,7 @@ header nav ul li:hover::after {
 }
 
 .bnt:hover {
-    opacity: 0.5;
+    opacity: 0.9;
     transition: 1s ease-in-out;
 }
 
@@ -204,13 +206,13 @@ header nav ul li:hover::after {
     height: 50px;
     border-radius: 50%;
     cursor: pointer;
-    background-color: rgba(255, 255, 255, 0.1) ;
-    border: 1px solid rgba(0, 247, 255, 0.3);
+    background-color: #1c060a;
+    border: 1px solid #ff002f8a;
 }
 
 .arrow-btn:hover {
-    background-color: rgba(0, 247, 255, 0.2);
-    border-color: #00f7ff;
+    background-color: #1c060a;
+    border-color: #ff002f8a;
 }
 
 .indicadores {
@@ -230,7 +232,7 @@ header nav ul li:hover::after {
     font-family: "Orbitron", sans-serif;
     font-size: 3rem;
     font-weight: 800;
-    color: rgba(255, 255, 255, 0.2);
+    color: rgba(255, 255, 255, 0.404);
 }
 
 .dots {
@@ -241,13 +243,13 @@ header nav ul li:hover::after {
 .dot {
     width: 40px;
     height: 4px;
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.493);
     border-radius: 2px;
 }
 
 .dot.active {
-        background-color: #00f7ff;
-    box-shadow: 0 0 10px rgba(0, 247, 255, 0.5);;
+        background-color: #1c060a;
+    box-shadow: 0 0 10px #ff002f8a;
 }
 
 .tech-circle {
@@ -262,7 +264,7 @@ header nav ul li:hover::after {
 .circle {
     position: absolute;
     border-radius: 50%;
-    border: 1px solid rgba(0, 247, 255, 0.2);
+    border: 1px solid #a12d42;
 }
 
 .circle:nth-child(1) {
@@ -325,7 +327,8 @@ header nav ul li::after {
   bottom: 0;
   width: 0;
   height: 2px;
-  background-color: #00f7ff;
+  background-color: #1c060a;
+  box-shadow: 0 0 10px #ff002f8a;
   transition: width 0.5s ease;
 }
 
@@ -338,7 +341,7 @@ header nav ul li:hover::after {
   display: none;
   font-size: 2rem;
   cursor: pointer;
-  color: #00f7ff;
+  color: #dba5af;
   z-index: 999;
 }
 
