@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TMK Store</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Orbitron:wght@400..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="logo">TMK Store</div>
+
+        <nav>
+  <div class="menu-toggle" id="menu-toggle">
+    ☰ 
+  </div>
+  <ul id="menu">
+    <li>Home</li>
+    <li>Produtos</li>
+    <li>Contatos</li>
+  </ul>
+</nav>
+
+    </header>
+
+    <main class="conteiner">
+        <div class="tech-circle">
+            <div class="circle"></div>
+            <div class="circle"></div>
+            <div class="circle"></div>
+            <div class="circle"></div>
+        </div>
+
+        <!-- IMG OCULOS https://i.ibb.co/s9kshhJy/vision-pro.png -->
+        <!-- IMG REDSET https://i.ibb.co/4wDx4nh2/air-pods.png -->
+        <!-- IMG RELOGIO https://i.ibb.co/B2mcZpLr/apple-watch.png -->
+
+        <div class="list">
+            <div class="item active">
+
+                <div class="produto-img">
+                    <img src="https://i.ibb.co/B2mcZpLr/apple-watch.png" alt="apple-watch">
+                </div>
+
+                <div class="content">
+                    <p class="produto-tag">Novo Lançamento</p>
+                    <p class="produto-name">Apple Watch Series 10</p>
+                    <p class="descrição">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod excepturi nostrum
+                        temporibus minima, est accusamus harum. Soluta, fuga repudiandae. Quas debitis voluptatibus
+                        voluptas. Ipsa officia quas a nostrum dolores labore?</p>
+                    <button class="bnt">Saiba Mais</button>
+                </div>
+            </div>
+            <div class="item">
+
+                <div class="produto-img">
+                    <img src="https://i.ibb.co/4wDx4nh2/air-pods.png" alt="air-pods">
+                </div>
+
+                <div class="content">
+                    <p class="produto-tag">Som Premium</p>
+                    <p class="produto-name">Air Pods Max</p>
+                    <p class="descrição">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod excepturi nostrum
+                        temporibus minima, est accusamus harum. Soluta, fuga repudiandae. Quas debitis voluptatibus
+                        voluptas. Ipsa officia quas a nostrum dolores labore?</p>
+                    <button class="bnt">Saiba Mais</button>
+                </div>
+
+            </div>
+            <div class="item">
+                <div class="produto-img">
+                    <img src="https://i.ibb.co/s9kshhJy/vision-pro.png" alt="vision-pro">
+                </div>
+
+                <div class="content">
+                    <p class="produto-tag">Alta Performace</p>
+                    <p class="produto-name">Vision-Pro</p>
+                    <p class="descrição">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod excepturi nostrum
+                        temporibus minima, est accusamus harum. Soluta, fuga repudiandae. Quas debitis voluptatibus
+                        voluptas. Ipsa officia quas a nostrum dolores labore?</p>
+                    <button class="bnt">Saiba Mais</button>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="arrows">
+            <button class="arrow-btn" id="prev">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#fff"
+                    class="bi bi-arrow-return-left" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd"
+                        d="M14.5 1.5a.5.5 0 0 1 .5.5v4.8a2.5 2.5 0 0 1-2.5 2.5H2.707l3.347 3.346a.5.5 0 0 1-.708.708l-4.2-4.2a.5.5 0 0 1 0-.708l4-4a.5.5 0 1 1 .708.708L2.707 8.3H12.5A1.5 1.5 0 0 0 14 6.8V2a.5.5 0 0 1 .5-.5" />
+                </svg>
+            </button>
+
+            <button class="arrow-btn" id="next">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#fff"
+                    class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd"
+                        d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
+                </svg>
+            </button>
+        </div>
+
+        <div class="indicadores">
+            <div class="number">01</div>
+            <div class="dots">
+                <div class="dot active"></div>
+                <div class="dot"></div>
+                <div class="dot"></div>
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
