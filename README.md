@@ -19,4 +19,4 @@
 </div>
 
   <h2>Versões Mobile / Desktop </h2>
-<p > <img src="https://imgur.com/UPqamvN.png" width="9500px" style="display-inline-block"> </p>
+<p > <img src="https://imgur.com/UPqamvN.png" width="800px" style="display-inline-block"> </p>
