@@ -1,9 +1,9 @@
 <h1> <img src="https://i.ibb.co/4wDx4nh2/air-pods.png" width="50px">  THK STORE </h1>
-<P>🔹 Confira na THK STORE! 🔹<br> <br>
+<p>🔹 Confira na THK STORE! 🔹<br> <br>
 Aqui você encontra AI Podes e Sed Setes com os melhores preços e qualidade garantida!
 💥 Perfeitos para quem busca inovação, estilo e praticidade no dia a dia.
 Visite nossa loja e aproveite as ofertas exclusivas.
-✨ THK — Tecnologia e estilo no seu ritmo!.<br><br>-Esse foi um projeto que eu desenvolvi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></P>
+✨ THK — Tecnologia e estilo no seu ritmo!.<br><br>-Esse foi um projeto que eu desenvolvi no <a href="https://rodolfomori.com.br/devclub">DevClub</a><br>-<a href="https://tiagomdr.github.io/ThkStore/">Visualisar o projeto</a></p>
 <h2 align="center">🧑‍💻 Tecnologias utilizadas:</h2>             
 <br>   
 <div align="center">
