@@ -19,4 +19,4 @@
 </div>
 
   <h2>Versões Mobile / Desktop </h2>
-<p > <img src="https://github.com/tiagomdr/Projeto-Mario/blob/master/img/thk.png?raw=true" width="400px" style="display-inline-block"> </p>
+<p > <img src="https://github.com/tiagomdr/Projeto-Mario/blob/master/imgs/thk.png?raw=true" width="400px" style="display-inline-block"> </p>
