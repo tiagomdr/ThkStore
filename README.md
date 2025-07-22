@@ -3,7 +3,7 @@
 Aqui você encontra AI Podes e Sed Setes com os melhores preços e qualidade garantida!
 💥 Perfeitos para quem busca inovação, estilo e praticidade no dia a dia.
 Visite nossa loja e aproveite as ofertas exclusivas.
-✨ THK — Tecnologia e estilo no seu ritmo!.<br><br>-Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></P>
+✨ THK — Tecnologia e estilo no seu ritmo!.<br><br>-Esse foi um projeto que eu desenvolvi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></P>
 <h2 align="center">🧑‍💻 Tecnologias utilizadas:</h2>             
 <br>   
 <div align="center">
