@@ -1,12 +1,11 @@
 <h1> <img src="https://i.ibb.co/4wDx4nh2/air-pods.png" width="50px">  THK STORE </h1>
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
-<P>Você se encontra em uma situação de emergência com encanamento? Vazamantos inesperados, canos entupidos
-                ou
-                torneiras que não param de pingar? Não se preocupe, porque estamos aqui para salvar o dia! Apresentamos
-                a
-                vocês
-                os encanadores mais famosos do Reino dos Cogumelos, Mario e Luigi!.</P>
+<P>🔹 Confira na THK STORE! 🔹
+Aqui você encontra AI Podes e Sed Setes com os melhores preços e qualidade garantida!
+💥 Perfeitos para quem busca inovação, estilo e praticidade no dia a dia.
+Visite nossa loja e aproveite as ofertas exclusivas.
+✨ THK — Tecnologia e estilo no seu ritmo!.</P>
 <h2 align="center">🧑‍💻 Tecnologias utilizadas:</h2>             
 <br>   
 <div align="center">
