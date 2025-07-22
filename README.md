@@ -1,4 +1,4 @@
-<h1> <img src="https://github.com/tiagomdr/Projeto-Mario/blob/master/img/icon.png?raw=true" width="50px"> Mario e Luigi </h1>
+<h1> <img src="https://i.ibb.co/4wDx4nh2/air-pods.png" width="50px"> THK STORE </h1>
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <P>Você se encontra em uma situação de emergência com encanamento? Vazamantos inesperados, canos entupidos
