@@ -19,4 +19,4 @@
 </div>
 
   <h2>Versões Mobile / Desktop </h2>
-<p > <img src="[https://github.com/tiagomdr/ThkStore/blob/master/imgs/thk.png?raw=true](https://github.com/tiagomdr/ThkStore/blob/main/imgs/thk.png)" width="400px" style="display-inline-block"> </p>
+<p > <img src="https://github.com/tiagomdr/ThkStore/blob/main/imgs/thk.png" width="400px" style="display-inline-block"> </p>
