@@ -1,5 +1,5 @@
 <h1> 🎵 THK STORE </h1>
-<h2>🔹 Confira na THK STORE!🔹</h2><br> <br>
+<h2>🔹 Confira na THK STORE!🔹</h2>
 Aqui você encontra AI Podes e Sed Setes com os melhores preços e qualidade garantida!
 💥 Perfeitos para quem busca inovação, estilo e praticidade no dia a dia.
 Visite nossa loja e aproveite as ofertas exclusivas.
