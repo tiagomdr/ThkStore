@@ -1,4 +1,4 @@
-# 🛒 TMK Store — AI Podes & Sed Setes
+# 🛒 THK Store — AI Podes & Sed Setes
 
 Aqui você encontra **AI Podes** e **Sed Setes** com os melhores preços e qualidade garantida!  
 💥 Perfeitos para quem busca inovação, estilo e praticidade no dia a dia.
