@@ -27,6 +27,7 @@ Visite nossa loja e aproveite ofertas exclusivas e condições especiais!
 - Sistema de ofertas exclusivas destacadas  
 - Navegação simples e intuitiva
 
- <img src="https://imgur.com/UPqamvN.png" width="800px" style="display-inline-block"> </p>
+ ## 📷 Prévia do Projeto
+ <img src="https://imgur.com/UPqamvN.png" width="800px" style="display-inline-block">
 
 ---
