@@ -16,7 +16,7 @@ Visite nossa loja e aproveite ofertas exclusivas e condições especiais!
 
 - ✅ **HTML5** — Estrutura semântica da loja  
 - 🎨 **CSS3** — Design moderno, responsivo e atraente  
-- ⚙️ **JavaScript ** — Interatividade e funcionalidades dinâmicas  
+- ⚙️ **JavaScript** — Interatividade e funcionalidades dinâmicas  
 
 ---
 
